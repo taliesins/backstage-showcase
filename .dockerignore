@@ -5,7 +5,10 @@
 plugins
 !plugins/scalprum-backend
 !plugins/dynamic-plugins-info-backend
+!plugins/auth-backend-module-oidc-provider
 *.local.yaml
 coverage
 dist-types
 examples
+docker/Dockerfile
+docker/prow.Dockerfile
